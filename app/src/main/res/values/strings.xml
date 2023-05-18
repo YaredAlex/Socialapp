@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TeamMascot</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="country">
+        <item>Select one</item>
+        <item>India</item>
+        <item>Bhutan</item>
+    </string-array>
+    <string-array name="Collage">
+        <item>Select one</item>
+        <item>Chandigargh</item>
+        <item>Punjap</item>
+        <item>Chitkara</item>
+        <item>LPU</item>
+        <item>Sharda</item>
+    </string-array>
+</resources>

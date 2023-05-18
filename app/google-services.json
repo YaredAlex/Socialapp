@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254324460480",
+    "project_id": "smartbook-64e27",
+    "storage_bucket": "smartbook-64e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254324460480:android:106514136de4f7b25e9625",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254324460480-ts2omndppdrkr00pf78vmu5usommjd7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1xAqS9WwPR1ySBolAceHZVtQQ6_-VXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254324460480-ts2omndppdrkr00pf78vmu5usommjd7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
